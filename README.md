@@ -48,6 +48,11 @@ ___
 
 Позитивный и увлеченный, стану неотъемлемой частью __Вашей__ команды!
 ___
+### Cертификаты :
+- [__wayup.in__](https://my.wayup.in)
+    - Курс по JS([RU][jsRu] [EN][jsEn])
+    - Курс по Верстке([RU][verRu] [EN][verEn])
+___
 ### Мои работы :
 - __Лендинг__
     + [vision-avtr][l1]
@@ -69,8 +74,13 @@ ___
 [tel]: tel:79805363063
 [telegram]: https://t.me/Art_Pro_Esk
 
-<!-- Ссылки на работы -->
+<!-- сертификаты -->
+[verRu]: https://drive.google.com/file/d/1a0hH83TZixQpvRsXDdId4go_rTEmazCu/view?usp=sharing
+[verEn]: https://drive.google.com/file/d/1Ur2rQ-l_IpGtBDAtFxHAcpsgvBEEILxR/view?usp=sharing
+[jsRu]: https://drive.google.com/file/d/1kkG4Lg8eaA6XuLCmBnA71K0H7rLw2c_7/view?usp=sharing
+[jsEn]: https://drive.google.com/file/d/1kkG4Lg8eaA6XuLCmBnA71K0H7rLw2c_7/view?usp=sharing
 
+<!-- Ссылки на работы -->
 <!-- music-wp -->
 [с1]: http://host1846645.hostland.pro
 [с1Git]: https://github.com/ArtProEs/music-wp
