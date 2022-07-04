@@ -1,76 +1,85 @@
-<style>
-    .a1 {
-        color: red;
-        width: 10%
-    }
-    .flex {
-        display: flex;
-        gap: 30px;
-        min-width: 100%;
-    }
-    .p,.ul,.li {
-        margin: 0;
-        padding: 0;
-    }
-    .info {
-        padding: 5px 0;
-        color: #8f8f8f;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .info__name {
-        font-size: 24px;
-        font-weight: 700;
-        color: #000;
-    }
-    .info__position {
-        color: #8f8f8f;
-    }
-    .linked__list {
-        padding: 5px 0;
-    }
-    .li {
-        list-style: none;
-    }
-    .info__text {
-    }
-</style>
+# Артем Прокопенко \ _Frontend Developer_
+#### _02.05.1994(28)_
+#### _Россия, Воронеж_
+___
+### Контакты и полезные ссылки :
+- __GitHub__ [github.com/ArtProEs][git]
+- __Maill__ [artproesk@gmail.com][mail]
+- __Phone__ [+7 (980) 536-30-63][tel]
+- __Telegram__ [@Art_Pro_Esk][telegram]
+___
+### Профессиональные навыки :
+- __JavaScript__ (ES5, ES6).
+- __Верстка:__ Адаптивная верстка HTML(БЭМ),	CSS
+- __Препроцессоры:__ SCSS / SASS
+- __Инструменты:__ npm, Gulp, Git
+- __Графические радакторы:__ Figma, PS, AI
+- __CMS:__ WordPress
+- __Основы:__ PHP, Дизайн сайтов (Figma),
+___
+### Личные навыки :
+- __Планирование__
+    + Разделяю на этапы
+    + Даю адекватные оценки
+    + Соблюдаю сроки
+    + Довожу дело до конца
+- __Саморазвитие__
+    + Самостоятелен - не буду тратить ваше время
+    + Непредубежденный - готов пробовать новые идеи или мысленные эксперименты
+    + Быстрообучаем
+    + Ответственен
+- __Командный подход__
+    + Умею просить о помощи
+    + Умею помогать 
+    + Умею признавать ошибки
+- __Коммуникативность__
+    + Принимаю чужие ценности
+    + Позитивен
+    + Дружелюбен
+    + Открыт к новому
+- __Иностранные языки__
+    + Английский (начальный уровень).
+___
+### Обо мне :
+Привет, я начинающий __front-end__ разработчик.
+Не так давно я самостаятельно начал изучать _front-end_ составляющую web-приложений. И уже могу похвастаться интересной и адаптивной версткой макетов и использованием Flex и Grid сеток.
+Серьезно настроен на дальнейшее развитие в данной сфере. Прямо сейчас я изучаю Архитектуру приложений,
+а в ближайшее время хочу освоить технологию MERN и строить полноценные Web-приложения.
 
-<div class="header flex">
-    <img width="150" src="https://dummyimage.com/300.png/09f/fff" alt="">
-    <div class="info">
-        <div class="info__text">
-            <p class="p info__name">Артем Прокопенко</p>
-            <p class="p info__position">Frontend Developer</p>
-            <p class="p info__age">02.05.1994(28)</p>
-            <p class="p info__location">Россия, Воронеж</p>
-        </div>
-        <ul class="ul linked__list">
-            <li class="li linked__item">
-                GitHub
-                <a class="a linked__link" href="https://github.com/ArtProEs">
-                    github.com/ArtProEs
-                </a>
-            </li>
-            <li class="li linked__item">
-                Maill 
-                <a class="a linked__link" href="mailto:artproesk@gmail.co">
-                    artproesk@gmail.com
-                </a>
-            </li>
-            <li class="li linked__item">
-                Phone
-                <a class="a linked__link" href="tel:79805363063">
-                    +7 (980) 536-30-63
-                </a>
-            </li>
-            <li class="li linked__item">
-                Telegram
-                <a class="a linked__link" href="https://t.me/Art_Pro_Esk">
-                    @Art_Pro_Esk
-                </a>
-            </li>
-        </ul>
-    </div>
-</div>
+Позитивный и увлеченный, стану неотъемлемой частью __Вашей__ команды!
+___
+### Мои работы :
+- __Лендинг__
+    + [vision-avtr][l1]
+        - [GitHub][l1Git]
+- __Визитка__ 
+    + [Визитка с музыкой][с1]
+        - [GitHub][с1Git]
+- __Интернет-Магазин__ 
+    + [Интернет-Магазин LOGO (Главная)][s1]
+        - [Страница Корзины][s1.1]
+        - [Страница Каталога товаров][s1.2]
+        - [Страница Продукта][s1.3]
+        - [GitHub][s1Git]
+---
+
+<!-- Ссылки профиля -->
+[git]: https://github.com/ArtProEs
+[mail]: mailto:artproesk@gmail.com
+[tel]: tel:79805363063
+[telegram]: https://t.me/Art_Pro_Esk
+
+<!-- Ссылки на работы -->
+
+<!-- music-wp -->
+[с1]: http://host1846645.hostland.pro
+[с1Git]: https://github.com/ArtProEs/music-wp
+<!-- vision-avtr -->
+[l1]: https://artproes.github.io/vision-avtr/
+[l1Git]: https://github.com/ArtProEs/vision-avtr
+<!-- Интернет магазин LOGO -->
+[s1]: https://artproes.github.io/GitPage-shop/
+[s1Git]: https://github.com/ArtProEs/shop
+[s1.1]: https://artproes.github.io/GitPage-shop/card.html
+[s1.2]: https://artproes.github.io/GitPage-shop/catalog.html
+[s1.3]: https://artproes.github.io/GitPage-shop/product.html
