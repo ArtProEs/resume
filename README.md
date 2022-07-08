@@ -19,7 +19,7 @@ ___
 - __JavaScript__ (ES5, ES6).
 - __Верстка:__ Адаптивная верстка HTML(БЭМ), CSS
 - __Препроцессоры:__ SCSS / SASS
-  __Шаблоницаторы:__ pug, handlebars
+- __Шаблоницаторы:__ pug, handlebars
 - __Инструменты:__ npm, Gulp, Git, Webpack
 - __Графические радакторы:__ Figma, PS, AI
 - __CMS:__ WordPress
