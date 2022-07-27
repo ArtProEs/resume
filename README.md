@@ -23,7 +23,7 @@ ___
 - __Инструменты:__ npm, Gulp, Git, Webpack
 - __Графические радакторы:__ Figma, PS, AI
 - __CMS:__ WordPress
-- __Основы:__ PHP, Дизайн сайтов (Figma), SQL, firebese...
+- __Основы:__ React, PHP, Дизайн сайтов (Figma), SQL, firebese...
 ___
 
 ### Личные навыки :
